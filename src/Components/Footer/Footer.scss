@@ -1,0 +1,26 @@
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+    background: #719192;
+  }
+  #logo-copyright {
+    display:flex;
+    align-items: center;
+    margin-right: 3000px;
+  }
+  .footer-logo {
+    height: 70px;
+  }
+
+  .icon {
+      display: flex;
+      justify-content: space-evenly;
+      margin-left: 200px;
+  }
+
+  #icon img {
+    width: 80px;
+  }
+  

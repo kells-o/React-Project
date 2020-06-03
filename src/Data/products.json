@@ -1,0 +1,90 @@
+{
+    "products": [
+        {
+            "name": "Seal Mitted Mink",
+            "description": "Male",
+            "price": "$1,500",
+            "img": "img/cat1.jpg"
+        },
+    
+        {
+            "name": "Seal Mitted Mink",
+            "description": "Female",
+            "price": "$1,500",
+            "img": "img/cat2.jpg"
+        },
+    
+        {
+            "name": "Seal Point Mink",
+            "description": "Male",
+            "price": "$1,700",
+            "img": "img/cat3.jpg"
+        },
+    
+        {
+            "name": "Blue Point Mink",
+            "description": "Female",
+            "price": "$1,500",
+            "img": "img/cat4.jpg"
+        },
+    
+        {
+            "name": "Seal Mitted",
+            "description": "Male",
+            "price": "$1,400",
+            "img": "img/cat5.jpg"
+        },
+    
+        {
+            "name": "Seal Point",
+            "description": "Male",
+            "price": "$1,700",
+            "img": "img/cat6.jpg"
+        },
+    
+    
+        {
+            "name": "Seal Point",
+            "description": "Female",
+            "price": "$1,700",
+            "img": "img/cat7.jpg"
+        },
+    
+        {
+            "name": "Blue Mitted Mink with Blaze",
+            "description": "Male",
+            "price": "$1,600",
+            "img": "img/cat8.jpeg"
+        },
+    
+        {
+            "name": "Seal Mitted Mink with Blaze",
+            "description": "Male",
+            "price": "$1,600",
+            "img": "img/cat9.jpg"
+        },
+    
+        {
+            "name": "Lilac Sepia",
+            "description": "Female",
+            "price": "$1,600",
+            "img": "img/cat10.jpg"
+        },
+    
+        {
+            "name": "Blue Mitted Mink",
+            "description": "Male",
+            "price": "$1,400",
+            "img": "img/cat11.jpg"
+        },
+    
+        {
+            "name": "Seal Mitted Mink",
+            "description": "Female",
+            "price": "$1,400",
+            "img": "img/cat12.jpg"
+        }
+    
+    ]
+    }
+    

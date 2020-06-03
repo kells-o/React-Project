@@ -1,0 +1,64 @@
+.navbar {
+    background: #dfcdc3;
+    overflow: none;
+    border-bottom: dotted;
+
+    .container {
+    margin-right: 500px;
+    }
+    }
+    
+    .navbar a {
+        color: #3c4245;
+    }
+    
+    a {
+        text-decoration: none;
+    }
+    
+    
+    .navbar ul {
+        list-style: none;
+        font-size: 5em;
+        position: relative;
+        left: 40px;
+    }
+    
+    .navbar ul li {
+    display: inline-block;
+    margin: 70px auto;
+    }
+    
+    .navbar ul li a {
+        padding: 0 40px;
+    }
+
+    
+    
+      /* creating current class and psuedo */
+      .navbar ul li a:hover {
+        color:#5f6769;
+    }
+    
+    
+    // Logo
+    
+    .logo-container {
+   height: 60px;
+   margin-left: 40px;
+    }
+    
+    
+    .logo {
+        font-size: 3em;
+        color: #3c4245;
+        margin-left: 20px;
+        position: absolute;
+    }
+    
+    #logo-image {
+        height: 150px;
+        margin-top: 60px;
+    }
+    
+      
